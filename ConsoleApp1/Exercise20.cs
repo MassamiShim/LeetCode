@@ -1,4 +1,4 @@
-namespace MyApp;
+namespace ConsoleApp1;
 
 //Should be using stack for the validation
 public class Exercise20

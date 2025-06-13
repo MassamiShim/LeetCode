@@ -1,4 +1,4 @@
-namespace MyApp;
+namespace ConsoleApp1;
 
 public class Exercise1
 {

@@ -4,15 +4,16 @@
 
 using System;
 
-namespace MyApp
+namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             // var a = new Exercise1().Run([2, 7, 11, 15], 9);
-            var a = new Exercise20().Run("({{{{}}}))");
-            Console.WriteLine(a.ToString());
+            // var a = new Exercise20().Run("({{{{}}}))");
+            // var a = new Exercise21().Run();
+            // Console.WriteLine(a.ToString());
 
         }
     }

@@ -1,7 +1,4 @@
-﻿using Xunit;
-using MyApp;
-
-namespace MyApp.Test;
+﻿namespace ConsoleApp1.Test;
 
 public class UnitTest1
 {
