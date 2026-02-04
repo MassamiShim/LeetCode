@@ -15,6 +15,7 @@ namespace ConsoleApp1
             // var a = new Exercise21().Run();
             // Console.WriteLine(a.ToString());
 
+            var a = new Exercise26().Run([1,1,2]);
         }
     }
 }
